@@ -15,6 +15,10 @@
     <input type="password" placeholder="ENTER PASSWORD" name="psw" id="psw" required>
 
  <br>
+ <label for="psw"><b>Mother Name</b></label>
+    <input type="text" placeholder="Enter Mother Name" name="mothername" id="mothername" required>
+
+ <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
