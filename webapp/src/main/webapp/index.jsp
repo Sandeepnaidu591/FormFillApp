@@ -29,8 +29,8 @@
     <input type="text" placeholder="Enter Brother Name" name="Brothername" id="Brothername" required>
 
  <br>
-<label for="psw"><b>Spouse Name</b></label>
-    <input type="text" placeholder="Enter Spouse Name" name="Spousename" id="spousename" required>
+<label for="psw"><b>Sur Name</b></label>
+    <input type="text" placeholder="Enter Sur Name" name="Surname" id="surname" required>
 
  <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
