@@ -29,7 +29,10 @@
     <input type="text" placeholder="Enter Brother Name" name="Brothername" id="Brothername" required>
 
  <br>
+<label for="psw"><b>Spouse Name</b></label>
+    <input type="text" placeholder="Enter Spouse Name" name="Spousename" id="spousename" required>
 
+ <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
